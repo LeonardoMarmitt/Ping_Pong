@@ -1,5 +1,5 @@
 # score_db.py
-# Sistema simples para salvar e carregar scores usando JSON
+# Sistema simples para salvar e carregar scores usando JSON.
 
 import json
 import os
@@ -20,3 +20,5 @@ def salvar_score(nome, pontuacao):
     scores.append({"nome": nome, "pontuacao": pontuacao})
     with open(SCORE_FILE, "w") as arquivo:
         json.dump(scores, arquivo, indent=4)
+
+

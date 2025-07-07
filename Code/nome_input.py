@@ -34,3 +34,4 @@ def pedir_nome_e_salvar(tela, fonte, score_final):
                 else:
                     if len(nome) < 12:  # Limite opcional de caracteres
                         nome += evento.unicode
+# commit

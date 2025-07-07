@@ -90,3 +90,4 @@ class Menu:
                             return "jogar"
                         elif self.opcao_selecionada == 1:
                             self.mostrar_scores()
+# commit

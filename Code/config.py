@@ -27,3 +27,4 @@ VEL_RAQUETE = 8
 VEL_BOLA_X = 6
 VEL_BOLA_Y = 6
 VEL_IA = 5
+# commit

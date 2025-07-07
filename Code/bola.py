@@ -27,3 +27,4 @@ class Bola:
         self.x = config.LARGURA // 2
         self.y = config.ALTURA // 2
         self.vel_x *= -1
+# commit

@@ -84,3 +84,4 @@ class Game:
             self.verificar_fim_de_jogo()
 
         pygame.quit()
+# commit

@@ -23,3 +23,5 @@ class Player:
 
     def get_rect(self):
         return pygame.Rect(self.x, self.y, self.largura, self.altura)
+
+# commit
