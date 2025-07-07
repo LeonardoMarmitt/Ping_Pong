@@ -1,3 +1,6 @@
+# começar com uma config é interessante pois mantemos os valores todos aqui, evitando duplicações no codigo
+# caso necessario a alteração em algum valor ele se encontrará em config.py
+
 # Tamanho da janela
 LARGURA = 800
 ALTURA = 500
