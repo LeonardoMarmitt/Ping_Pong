@@ -11,6 +11,7 @@ FPS = 60
 # Cores RGB
 AZUL_MESA = (28, 107, 160)
 BRANCO = (255, 255, 255)
+AMARELO = (255, 255, 0)
 VERDE = (0, 200, 0)
 VERMELHO = (200, 0, 0)
 
